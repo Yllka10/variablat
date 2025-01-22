@@ -1,0 +1,27 @@
+/* div {
+    height: 300px;
+    width: 500px;
+    background-image: radial-gradient( red, yellow );
+} */
+ /* .hero{
+    width: 500px;
+    height: 500px;
+    background: linear-gradient(
+        90deg,
+        rgba(2,3,61,0.8) 0%,
+        rgba( 0,168,255,0.8) 100%
+    ),
+    url("https://cdn.britannica.com/10/241010-049-3EB67AA2/highest-mountains-of-the-world-on-each-continent.jpg")
+ } */
+/* :root{
+    --white: #fff;
+    --zi: black;
+    --brand-primary:orange;
+    --brand-secondary:green;
+}
+body{
+    background-color: var(--brand-primary);
+} */
+ :root{
+    
+ }
